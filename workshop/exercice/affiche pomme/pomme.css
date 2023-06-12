@@ -1,0 +1,10 @@
+header {
+     display: flex;
+     justify-content: space-between;
+ }
+
+
+mark {
+      padding: 0.1875em;
+       background-color: green; 
+  }

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Le diner de noël</title>
+</head>
+<body>
+    <p>Bonjour, bonnée <strong>2K23</strong>, bonne santé et surtout<em><br>LET'S GOOOOO TO THE PARTY</em></p>
+    <hr>
+    <h1 style="text-align: center; color:red"> Mon repas de Noël</h1>
+    <p>j'ai eu la chance d'avoir un repas de noël excellent, puisque il a etait composé des plats suivant:</p>
+
+    <ul>
+        <li><strong>du foie gras</strong> </li>
+        <li>du saumon</li>
+        <li>de la puree</li>
+        <li>et de la buche glacee</li>
+    </ul>
+
+    <img src="repas.jpg" alt="repas">
+
+    <p style="color:navy">apres j'ai pu deballer tous mes cadeaux:</p>
+
+    <ol>
+        <li><strong>play</strong></li>
+        <li>livre</li>
+        <li>voyage a Phucket</li>
+        <li>voiture</li>
+        <li>un xadv</li>
+
+
+
+    </ol>
+
+     <img src="cdx.jpeg" alt="des cadeaux">
+    
+</body>
+</html>
+
+
